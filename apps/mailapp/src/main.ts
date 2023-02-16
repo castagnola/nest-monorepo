@@ -5,7 +5,7 @@ import { MailappModule } from './mailapp.module';
 
 async function bootstrap() {
   const app = await NestFactory.createMicroservice<MicroserviceOptions>(
-    AppModule,
+    MailappModule,
     {
       transport: Transport.TCP, //Capa de transporte tcp
     },
