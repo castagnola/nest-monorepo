@@ -25,6 +25,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A simple example of tcp communacation using nestJs 
+
 
 ## Installation
 
